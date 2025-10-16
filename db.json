@@ -1,0 +1,3281 @@
+{
+  "days": [
+    {
+      "id": "41ec",
+      "note": "test1",
+      "date": "28.5.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94.75",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb"
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6"
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d"
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1"
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "50",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4"
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "12",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07"
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "300",
+          "input": "200",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac"
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d"
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "15",
+          "input": "15",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7"
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e"
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46"
+        }
+      ]
+    },
+    {
+      "id": "bdf5",
+      "note": "test2",
+      "date": "30.5.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94.4",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb"
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6"
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "10",
+          "input": "4",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d"
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1"
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "40",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4"
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07"
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "300",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac"
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d"
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7"
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e"
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46"
+        }
+      ],
+      "rating": 2
+    },
+    {
+      "id": "46e3",
+      "date": "31.5.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.7",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb"
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6"
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d"
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1"
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4"
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "25",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07"
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "300",
+          "input": "200",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac"
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d"
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7"
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e"
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46"
+        }
+      ],
+      "rating": 1,
+      "note": "Slab dan. Goon cel dan. Celo neki sprogramiral. Nc fizicne aktivnosti."
+    },
+    {
+      "id": "aace",
+      "date": "1.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb"
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6"
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d"
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1"
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4"
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07"
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "300",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac"
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "15",
+          "input": "15",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d"
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7"
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e"
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46"
+        }
+      ],
+      "rating": 2,
+      "note": ""
+    },
+    {
+      "id": "3079",
+      "date": "2.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.7",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb"
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6"
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "10",
+          "input": "6",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d"
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1"
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4"
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "30",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07"
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "300",
+          "input": "30",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac"
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d"
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7"
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e"
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46"
+        }
+      ],
+      "rating": 2,
+      "note": ""
+    },
+    {
+      "id": "5dd5",
+      "date": "4.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.9",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb"
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6"
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d"
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1"
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4"
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "5",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07"
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "300",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac"
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d"
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7"
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e"
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46"
+        }
+      ],
+      "rating": 1,
+      "note": ""
+    },
+    {
+      "id": "9c3e",
+      "date": "5.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.55",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb"
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6"
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d"
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1"
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "30",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4"
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07"
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "300",
+          "input": "10",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac"
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d"
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7"
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e"
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46"
+        }
+      ],
+      "rating": 1,
+      "note": "Rock bottom dan. PMO na polno. Nic delal. Brez volje in motivacije, ki mi jih pozrejo taki dnevi. To je pivot dan. Nekaj se mora spremenit. Mamba mentality. Bodi kot mike. Vsak dan bodi boljsi! Massive Action! Zjutraj napisi plan vsak dan. "
+    },
+    {
+      "id": "bdce",
+      "date": "6.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94",
+          "unit": "kg",
+          "overUnder": "over",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "6",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "20",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "150",
+          "input": "200",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "15",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "10",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 6,
+      "note": "Plan: Green Day! Massive Action.\nPrisega: Danes brez PMO!\n\nDopoldan: \nFizio\n2x Pomo\nMeditacija 10 min\nKolo\nPospravljanje\n\nPopoldan:\n1x Pomo\n2 vaji Codewars\n\nZvecer:\nKitara 15min\n\nDober dan. Nisem zadel vse zeleno!\n"
+    },
+    {
+      "id": "d494",
+      "date": "7.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "150",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 2,
+      "note": "BIl na rudniku in prvo plavanje Kolezija. Dopoldan zapravljen."
+    },
+    {
+      "id": "4e9d",
+      "date": "8.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "10",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "150",
+          "input": "30",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 1,
+      "note": "Se en failan plan. Nekaj se more spremeniti, spiral down. Mamba mentality. Bodi proaktiven. \nGoon cel popoldan. Nc narejen\n"
+    },
+    {
+      "id": "0f5c",
+      "date": "9.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94.7",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "8",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "90",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "15",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "150",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 5,
+      "note": ""
+    },
+    {
+      "id": "313f",
+      "date": "10.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94.55",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "5",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "50",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "12",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "100",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 3,
+      "note": "Dopoldan OK. Popoldan nisem naredil nic po planu"
+    },
+    {
+      "id": "3a7c",
+      "date": "12.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.7",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "90",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "5",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "50",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 3,
+      "note": "Brez plana. Napisi plan za dan!"
+    },
+    {
+      "id": "a5d2",
+      "date": "12.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.6",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 1,
+      "note": "test",
+      "plan": "test"
+    },
+    {
+      "id": "4d1a",
+      "date": "13.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "0",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "10",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 2,
+      "note": "Peljal Tadeja v Dolenske toplice kupit avto.",
+      "plan": "test"
+    },
+    {
+      "id": "1278",
+      "date": "14.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "0",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "300",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 6,
+      "note": "Prepeljal Barjanko. Super dan.",
+      "plan": ""
+    },
+    {
+      "id": "3127",
+      "date": "15.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94.1",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "10",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "100",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        }
+      ],
+      "rating": 3,
+      "note": "",
+      "plan": ""
+    },
+    {
+      "id": "ee8e",
+      "date": "16.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.55",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "8",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "20",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "55",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "100",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91"
+        }
+      ],
+      "rating": 4,
+      "note": "",
+      "plan": ""
+    },
+    {
+      "id": "938e",
+      "date": "17.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.6",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "50",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91"
+        }
+      ],
+      "rating": 1,
+      "note": "Za brez veze (bral redit inc.) se je spremenil dan v gunanje 4 ur. WTF?\nSHIT DAN",
+      "plan": ""
+    },
+    {
+      "id": "61a8",
+      "date": "18.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "93.6",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "10",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "120",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "25",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "30",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        }
+      ],
+      "rating": 5,
+      "note": "Nism naredil po planu. Sicer dober dan, samo cist brez programiranja in zguba casa doplodan",
+      "plan": ""
+    },
+    {
+      "id": "f933",
+      "date": "19.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94.3",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "120",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "50",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        }
+      ],
+      "rating": 4,
+      "note": "Samo 50min programiranja. Brez volje za ucenje. Testiral gravel kolo. Super.\nZvecer plavanje. Ful utrujen od plavanja, fitnesa in kolesa. Do better, be relentless.\nImej visje standarde zase.",
+      "plan": ""
+    },
+    {
+      "id": "a540",
+      "date": "22.6.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "6",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        }
+      ],
+      "rating": 1,
+      "note": "Trash day. Goon cel dan",
+      "plan": ""
+    },
+    {
+      "id": "d948",
+      "date": "5.7.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "0",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        }
+      ],
+      "rating": 1,
+      "note": "",
+      "plan": ""
+    },
+    {
+      "id": "493b",
+      "date": "6.7.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "0",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "40",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        }
+      ],
+      "rating": 1,
+      "note": "",
+      "plan": ""
+    },
+    {
+      "id": "00ac",
+      "date": "7.7.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94.1",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "6",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "30",
+          "input": "30",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "20",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "80",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        },
+        {
+          "name": "MrzuTus",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "121034d1"
+        },
+        {
+          "name": "NoGame",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "32f94d7e",
+          "width": 88
+        }
+      ],
+      "rating": 3,
+      "note": "",
+      "plan": ""
+    },
+    {
+      "id": "fa6d",
+      "date": "8.7.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "94",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "30",
+          "input": "60",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "6",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        },
+        {
+          "name": "MrzuTus",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "121034d1"
+        },
+        {
+          "name": "NoGame",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "32f94d7e",
+          "width": 88
+        }
+      ],
+      "rating": 2,
+      "note": "",
+      "plan": ""
+    },
+    {
+      "id": "e473",
+      "date": "15.10.2025",
+      "actsArray": [
+        {
+          "name": "Teza",
+          "inputMode": "input",
+          "target": "92",
+          "input": "89",
+          "unit": "kg",
+          "overUnder": "under",
+          "id": "d45f63eb",
+          "width": 91
+        },
+        {
+          "name": "Dieta",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "2518b2a6",
+          "width": 88
+        },
+        {
+          "name": "Fizio vaje",
+          "inputMode": "input",
+          "target": "6",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "7058188d",
+          "width": 100
+        },
+        {
+          "name": "Spanje",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "8ee6b1f1",
+          "width": 88
+        },
+        {
+          "name": "Fitnes",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "1f362ad4",
+          "width": 100
+        },
+        {
+          "name": "Pospravljanje",
+          "inputMode": "input",
+          "target": "15",
+          "input": "5",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f39e7b07",
+          "width": 117
+        },
+        {
+          "name": "Programiranje",
+          "inputMode": "input",
+          "target": "200",
+          "input": "120",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bfba79ac",
+          "width": 122
+        },
+        {
+          "name": "Kitara",
+          "inputMode": "input",
+          "target": "10",
+          "input": "5",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "c5fc986d",
+          "width": 100
+        },
+        {
+          "name": "Meditacija",
+          "inputMode": "input",
+          "target": "10",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "699b24a7",
+          "width": 100
+        },
+        {
+          "name": "Leetcode",
+          "inputMode": "input",
+          "target": "20",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "f17e5a5e",
+          "width": 100
+        },
+        {
+          "name": "NF",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "56407f46",
+          "width": 88
+        },
+        {
+          "name": "Branje",
+          "inputMode": "input",
+          "target": "30",
+          "input": "0",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "bc08af91",
+          "width": 100
+        },
+        {
+          "name": "MrzuTus",
+          "inputMode": "select",
+          "target": "",
+          "input": "Ne",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "121034d1"
+        },
+        {
+          "name": "NoGame",
+          "inputMode": "select",
+          "target": "",
+          "input": "Da",
+          "unit": "min",
+          "overUnder": "over",
+          "id": "32f94d7e",
+          "width": 88
+        }
+      ],
+      "rating": 2,
+      "note": "",
+      "plan": ""
+    }
+  ]
+}
